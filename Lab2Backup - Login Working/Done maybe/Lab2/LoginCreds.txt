@@ -1,0 +1,4 @@
+admin:password
+test:lab2
+gunnar:student
+professor:compsci755

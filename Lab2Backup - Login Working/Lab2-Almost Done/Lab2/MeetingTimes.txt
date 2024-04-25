@@ -1,0 +1,9 @@
+9am:gunnar
+10am:gunnar
+11am:gunnar
+12pm:admin
+1pm:gunnar
+2pm:gunnar
+3pm:admin
+4pm:gunnar
+5pm:admin
