@@ -1,0 +1,2 @@
+COMPSCI 755
+This course focuses on the cryptographic solutions to security issues related to confidentiality, integrity, and authentication in networks. The main contents include block cipher and operations; stream cipher; public key cryptography; cryptography-based security protocols in authentication and key management; network, transport, and application layer security in the Internet; and applications of cryptography on security protocols in emerging fields of computing.
